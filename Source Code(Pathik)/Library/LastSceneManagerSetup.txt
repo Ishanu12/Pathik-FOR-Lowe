@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AzureSamples/WindowsAzure.Storage/AzureStorage.unity
+  isLoaded: 1
+  isActive: 1
